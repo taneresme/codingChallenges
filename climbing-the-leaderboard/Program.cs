@@ -37,13 +37,13 @@ namespace climbing_the_leaderboard
             int j = scores.Length - 1;
             for (int i = 0; i < alice.Length; i++)
             {
-                j = findPosition(i, j, alice, scores, scoresPositions, positions);
+                j = fillPosition(i, j, alice, scores, scoresPositions, positions);
             }
 
             return positions.ToArray();
         }
-
-        static int findPosition(int i, int j, int[] alice, int[] scores, int[] scoresPositions, List<int> positions)
+        
+        static int fillPosition(int i, int j, int[] alice, int[] scores, int[] scoresPositions, List<int> positions)
         {
             for (; j >= 0; j--)
             {
