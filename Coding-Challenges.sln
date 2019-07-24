@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "climbing-the-leaderboard", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest-common-subsequence", "longest-common-subsequence\longest-common-subsequence.csproj", "{D4FB161E-2FD3-453D-9B48-4A2BC2D90DA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest-common-substring", "longest-common-substring\longest-common-substring.csproj", "{D32707E3-72F1-400C-836C-4ED976AE51D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D4FB161E-2FD3-453D-9B48-4A2BC2D90DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4FB161E-2FD3-453D-9B48-4A2BC2D90DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4FB161E-2FD3-453D-9B48-4A2BC2D90DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32707E3-72F1-400C-836C-4ED976AE51D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32707E3-72F1-400C-836C-4ED976AE51D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32707E3-72F1-400C-836C-4ED976AE51D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32707E3-72F1-400C-836C-4ED976AE51D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
