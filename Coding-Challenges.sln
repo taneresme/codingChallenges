@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stock-buy-and-sell", "stock
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagram", "anagram\anagram.csproj", "{AA568341-0028-40AD-A737-FD67082FAA07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome-string", "palindrome-string\palindrome-string.csproj", "{04F6D054-385F-47CD-AD2D-D229BBEF9E7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AA568341-0028-40AD-A737-FD67082FAA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA568341-0028-40AD-A737-FD67082FAA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA568341-0028-40AD-A737-FD67082FAA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F6D054-385F-47CD-AD2D-D229BBEF9E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F6D054-385F-47CD-AD2D-D229BBEF9E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F6D054-385F-47CD-AD2D-D229BBEF9E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F6D054-385F-47CD-AD2D-D229BBEF9E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
