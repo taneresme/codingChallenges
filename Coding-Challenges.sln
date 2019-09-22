@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forming-a-magic-square", "forming-a-magic-square\forming-a-magic-square.csproj", "{CDAB328E-A37D-4757-A745-19FA4D8B5BBA}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pascal-triangle", "pascal-triangle\pascal-triangle.csproj", "{D1EEE371-742E-43C2-907B-0B749CFC37F5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stock-buy-and-sell", "stock-buy-and-sell\stock-buy-and-sell.csproj", "{3E7B166B-270B-4D6D-922F-DCB95FE69B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagram", "anagram\anagram.csproj", "{AA568341-0028-40AD-A737-FD67082FAA07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3E7B166B-270B-4D6D-922F-DCB95FE69B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E7B166B-270B-4D6D-922F-DCB95FE69B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E7B166B-270B-4D6D-922F-DCB95FE69B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA568341-0028-40AD-A737-FD67082FAA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA568341-0028-40AD-A737-FD67082FAA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA568341-0028-40AD-A737-FD67082FAA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA568341-0028-40AD-A737-FD67082FAA07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
